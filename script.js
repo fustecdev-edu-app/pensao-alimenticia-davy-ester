@@ -23,12 +23,13 @@ const opitionText = select.options[select.selectedIndex].text;
 
 const valorDaOption = selectOption.value;
 iputImag.style.display="block"
-posiput[valorDaOption]
-
+posiput = valorDaOption
+var busqmes = mes[valorDaOption]
 p1.textContent="Mês:  "+opitionText
 
-   var busqmes = mes[posiput]
-    busqmes.map(()=>{
+   
+
+  busqmes.map(() =>{
 
     
  var p2 = document.createElement("p")
@@ -48,7 +49,7 @@ iputImag.addEventListener("click", ()=>{
     
     var posImg = mesimg[posiput]
     img.src= posImg[cont]
-    
+
     cont++ 
     if (cont==posImg.length) {
       cont=0  
