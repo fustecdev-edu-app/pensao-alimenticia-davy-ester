@@ -4,3 +4,8 @@ body{
 .iputImag{
     display: none;
 }
+marquee{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 25px;
+}

@@ -10,10 +10,22 @@ var setembrovalor=[
            "Total R$ 490,00 do dia 7/9/20250 a 7/10/2025",
 
 ]
+var outubro =[
+"Em berto Não foi depositado nada ainda nesse mês",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+
+]
 
 var mes = [
     0,
     setembrovalor,
+    outubro,
 ]
 
 export {mes};

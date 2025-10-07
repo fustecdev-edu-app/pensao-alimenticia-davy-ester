@@ -8,10 +8,15 @@ var setembroimg= [
           "image/5-10-2025.jpg",
 
 ]
+var outubro =[
+    "image/aberto.jpg",
+
+]
 
 var mesimg =[
     0,
     setembroimg,
+    outubro
 ]
 
 export {mesimg};
