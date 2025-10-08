@@ -11,7 +11,7 @@ var setembrovalor=[
 
 ]
 var outubro =[
-"Em berto Não foi depositado nada ainda nesse mês",
+"R$ 100,00",
 "",
 "",
 "",
