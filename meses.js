@@ -13,12 +13,12 @@ var setembrovalor=[
 var outubro =[
 "R$ 100,00",
 "R$ 140,00",
+"R$ 60,00",
 "",
 "",
 "",
 "",
-"",
-"Toata R$ 240,00"
+"Toata R$ 300,00"
 
 ]
 

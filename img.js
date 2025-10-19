@@ -11,6 +11,7 @@ var setembroimg= [
 var outubro =[
     "8-10-2025.jpg",
     "12-10-2025.jpg",
+    "19-10-2025.jpg",
     
 
 ]
